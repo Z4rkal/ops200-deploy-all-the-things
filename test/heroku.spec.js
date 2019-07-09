@@ -13,7 +13,8 @@ const projects = [
   'change_calculator',
   'mortgage_calculator',
   'top_spots',
-  'vstda'
+  'vstda',
+  'hackathon'
 ];
 
 const checkValidHerokuUrl = (url) => {
